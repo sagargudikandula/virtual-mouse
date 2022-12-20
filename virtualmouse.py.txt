@@ -1,5 +1,0 @@
-Operating System : windows 8 or higher
-
-Python Version 3.8 Above
-
-Packages: OpenCV, Mediapipe , AutoGUI etc
